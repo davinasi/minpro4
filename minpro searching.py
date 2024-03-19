@@ -1,3 +1,7 @@
+# davina putri izzati gautama
+# 2309116054
+
+
 import math
 from prettytable import PrettyTable
 
